@@ -1,6 +1,6 @@
 # AI
 # SPPU TE Computer Engineering - Artificial Intelligence Practical Files
-
+https://github.com/sujalkamanna/AI
 This repository contains practical files for the Artificial Intelligence subject of Third Year Computer Engineering as per the Savitribai Phule Pune University (SPPU) curriculum.
 
 ## Course Overview
